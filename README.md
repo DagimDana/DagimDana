@@ -1,3 +1,4 @@
+<img src= "https://raw.githubusercontent.com/DagimDana/DagimDana/refs/heads/main/animated_text.svg" width="100%" />
 # 💫 About Me:
 👋 Hi, I’m Dagim, a computer engineering graduate with several years of experience in web development, specializing in React.js and more recently, Next.js. I also have strong proficiency with the MERN stack and Django. I’m always eager to learn new technologies and take on exciting projects to further expand my skill set.
 ## 🌐 Socials:
